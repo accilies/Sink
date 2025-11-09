@@ -105,7 +105,7 @@ function copyLink() {
             <LinkIcon class="h-5 w-5" />
           </a>
 
-          <Popover>
+          <!-- Popover>
             <PopoverTrigger>
               <QrCode
                 class="h-5 w-5"
@@ -168,7 +168,7 @@ function copyLink() {
                 </div>
               </DashboardLinksDelete>
             </PopoverContent>
-          </Popover>
+          </Popover -->
         </div>
         <div class="flex h-5 w-full space-x-2 text-sm">
           <TooltipProvider>
