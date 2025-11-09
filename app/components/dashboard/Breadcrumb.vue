@@ -10,7 +10,7 @@ defineProps({
 const { title } = useAppConfig()
 </script>
 
-<template>
+<!-- template>
   <Breadcrumb class="flex justify-between">
     <BreadcrumbList>
       <BreadcrumbItem>
@@ -35,4 +35,4 @@ const { title } = useAppConfig()
 
     <DashboardLogout />
   </Breadcrumb>
-</template>
+</template -->
