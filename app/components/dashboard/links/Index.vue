@@ -81,13 +81,13 @@ function updateLinkList(link, type) {
         sm:flex-row sm:justify-between sm:gap-2
       "
     >
-      <DashboardNav class="flex-1">
+      <!-- DashboardNav class="flex-1">
         <div class="flex items-center gap-2">
           <DashboardLinksEditor @update:link="updateLinkList" />
           <DashboardLinksSort v-model:sort-by="sortBy" />
         </div>
       </DashboardNav>
-      <LazyDashboardLinksSearch />
+      <LazyDashboardLinksSearch / -->
     </div>
     <section
       class="
