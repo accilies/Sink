@@ -104,6 +104,7 @@ function copyLink() {
           >
             <LinkIcon class="h-5 w-5" />
           </a>
+          <!-- ok here -->
 <!-- DISABLE FROM HERE -->
           <!-- Popover>
             <PopoverTrigger>
